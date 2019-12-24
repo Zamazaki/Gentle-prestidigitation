@@ -1,0 +1,8 @@
+I don't know what i want to write
+import cat from sofa
+def identify(pet):
+  if pet.cat():
+    return True
+  else:
+    return False
+    
